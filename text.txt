@@ -1,5 +1,5 @@
-<<<<<< HEAD
 Some bold text 5
 
 More text added
->>>>>>> 93ac17e3253bd5b6551caa2c7b82cfbd3065859f
+
+One more line added
